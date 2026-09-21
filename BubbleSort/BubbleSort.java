@@ -23,5 +23,6 @@ public class BubbleSort {
             arr[i] = sc.nextInt();
         }
         sortarr(arr, n);
+        sc.close();
     }
 }
